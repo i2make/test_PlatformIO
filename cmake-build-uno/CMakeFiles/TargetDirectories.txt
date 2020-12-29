@@ -1,0 +1,5 @@
+C:/Users/KJH/CLionProjects/test_PlatformIO/cmake-build-uno/CMakeFiles/Production.dir
+C:/Users/KJH/CLionProjects/test_PlatformIO/cmake-build-uno/CMakeFiles/edit_cache.dir
+C:/Users/KJH/CLionProjects/test_PlatformIO/cmake-build-uno/CMakeFiles/Debug.dir
+C:/Users/KJH/CLionProjects/test_PlatformIO/cmake-build-uno/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/Users/KJH/CLionProjects/test_PlatformIO/cmake-build-uno/CMakeFiles/rebuild_cache.dir
